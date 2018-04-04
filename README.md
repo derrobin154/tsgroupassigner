@@ -1,4 +1,6 @@
 # TS Group Assigner
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fderrobin154%2Ftsgroupassigner.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fderrobin154%2Ftsgroupassigner?ref=badge_shield)
+
 
 Aufgrund einer Anfrage habe ich diesen Group Assigner mal programmiert und seit 2016 liegt der nun auf meiner Festplatte rum, weshalb ich ihn auf Github veröffentliche.
 Damit andere was damit anfangen können.
@@ -31,3 +33,7 @@ Der Gruppenzuweiser funktioniert auf der Basis vom [TeamSpeak 3 PHP Framework](h
 #Information zur Weiterentwicklung
 Der Teamspeak Gruppenzuweiser wurde seit 2016 nicht mehr weiterentwickelt, deshalb besteht keine Sicherheit das dieses Skript zu 100% sicher ist.
 Fehler können gerne via Issues gemeldet werden, und ich versuche jegliche Fehler zu beheben. Allerdings wird es keine Funktionsupdates zu diesem Skript mehr geben.
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fderrobin154%2Ftsgroupassigner.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fderrobin154%2Ftsgroupassigner?ref=badge_large)
